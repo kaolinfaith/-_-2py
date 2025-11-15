@@ -1,3 +1,4 @@
+
 from typing import Dict, List, Set, Optional
 
 # Общие типы данных для всего приложения
